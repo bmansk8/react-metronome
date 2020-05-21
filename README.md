@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important Links
+
+https://daveceddia.com/react-practice-projects/
+https://codesandbox.io/s/metronome-jm72l?file=/src/MetronomeHook.js
+
+So this is a metronome app I created thanks to the links above.
+the first link is the orignal article. The second is a forum post that
+helped me convert the project to use hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:
